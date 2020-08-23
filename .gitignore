@@ -4,6 +4,7 @@ config.py
 #adding addional files
 api_practice.ipynb
 random_numbers.ipynb
+Google_Nerby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
