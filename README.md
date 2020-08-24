@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Purpose
+The Purpose of this repository is to improve the PlanMyTrip app. In this app we use the Google Maps Directions API to not only assist the user to plan a trip but toa lso describe the weather in the city as shown in [Image1](https://github.com/ElizMishina/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map.png) and [Image2](https://github.com/ElizMishina/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map_markers.png). This app is still being beta tested but hopefully this new version will receive the same response, or better, as before.
